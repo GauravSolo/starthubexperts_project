@@ -1,0 +1,464 @@
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="1"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 50vh;margin-left: auto;margin-right: auto;">
+  <div   class=" h-50 d-flex flex-column justify-content-start align-items-start divpara ">
+    <h1  data-title="1"  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+    Digital Marketing
+    </h1>
+    <!-- <p   style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p  data-para="1" style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+    Marketing is the backbone of any Start-up; it ensures that the product or service produced gets a proper reach out there in the market.<span class="badge readmore" data-id="1" data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <p data-para="2" class="d-none"></p>
+    <div  class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div  data-number="1" data-value="Digital Marketing" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">
+        CONTACT US
+      </div>
+    </div>
+  </div>
+  <div   class="col-12 position-relative text-center h-50">
+          <img src="images2/digital.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+
+
+
+
+<div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel3" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-zoom" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-white" style="background-color: #ffa737;" >
+        <h5 class="modal-title " id="exampleModalLabel" class="modaltitle" >
+</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body text-justify" style="color:#5d5f64;margin-left: auto;margin-right: auto;width: 90%;" class="modalpara">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" style="background-color: #ffa737 !important; border:none !important;">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div  class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+    Patent Filing
+    </h1>
+    <!-- <p data-aos="zoom-in"  data-aos-offset="1"
+  data-aos-delay="5"
+  data-aos-duration="1000"
+  data-aos-easing="ease-in-out"
+  data-aos-mirror="true"
+  data-aos-once="false"
+  data-aos-anchor-placement="top-center" style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p  style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+  Patent filing acts as a fuel to start-ups, it is one of the most basic and integral steps for any new innovation to protect it from exploitation and give its inventor the real worth.<span class="badge readmore" data-id="2"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div  class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="2" data-value="Patent Filing" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div  class="col-12 position-relative text-center h-50">
+          <img src="images2/patent.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+<!-- </div> -->
+
+
+<!-- <div class="row d-flex flex-column flex-md-row w-100"> -->
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div  class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      3-D Modelling
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      3-D modelling can take start-ups to a complete next level as it can produce demo models of the exact large project and help the clients to get a better understanding.<span class="badge readmore" data-id="3"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="3" data-value="3-D Modelling" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div  class="col-12 position-relative text-center h-50">
+          <img src="images2/3dmodeling.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Research and Development
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      It is a must for any start-up to go under continuous research and development for coming up with more innovatory ideas and actually putting them into place.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="4" data-value="Research and Development" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/research.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+<!-- </div> -->
+
+
+<!-- <div class="row d-flex flex-column flex-md-row w-100"> -->
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Proto-typing
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Prototypes helps a company to pitch their ideas to their clients, the structure helps the clients to understand the project in a much-detailed way.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="5" data-value="Proto-typing" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/prototype.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      ROC (Registrar of Companies)
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Registrar of Companies provide a national security in terms of documentation and data privacy to companies registered with them and this feature is extremely beneficiary foor the budding start-ups.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="6" data-value="ROC (Registrar of Companies)" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/roc-removebg-preview.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+<!-- </div> -->
+
+
+<!-- <div class="row d-flex flex-column flex-md-row w-100"> -->
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Accounting and Compliance’s
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      For any start-up to grow into something big it requires a lot of effort in accounting and compliance as a strong financial edge is extremely required.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="7" data-value="Accounting and Compliance’s" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/accounting.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+
+
+<!-- <div class="row d-flex flex-column flex-lg-row-reverse justify-content-center align-items-center my-5" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Google Adwords. SEM Campaigns Made Simple.
+    </h1>
+    <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est omnis dolor repellendus.<span class="badge" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images/marketing.jpeg" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div> -->
+
+
+
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Website/Application
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      In a start-up a website serves the purposes of informing people about the required information and applications helps the applicant to reach to the authorities in need.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="8" data-value="Website/Application" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images/website.jpg" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+<!-- </div> -->
+
+<!-- <div class="row d-flex flex-column flex-md-row w-100"> -->
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Legalities
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Abiding by the law and maintaining all the legal procedures is very important to maintain in order to build a successful start-up.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="9" data-value="Legalities" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/legalities.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Financing
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Financing supports a start-up to get established in reality, it helps in executing and expanding the plan further.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="10" data-value="Financing" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/finance.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+<!-- </div> -->
+
+
+<!-- <div class="row d-flex flex-column flex-md-row w-100"> -->
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Recruitment
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Recruiting employees in various domain in a start-up ensures upgrading the quality of work and thus benefits.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="11" data-value="Recruitment" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/recruitment.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Investors
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est omnis dolor repellendus.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="12" data-value="Investors" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/investor.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+<!-- </div> -->
+
+
+<!-- <div class="row d-flex flex-column flex-md-row w-100"> -->
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Cyber Security
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est omnis dolor repellendus.<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="13" data-value="Cyber Security" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images2/cyber.png" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>
+
+<div data-aos="zoom-in"  data-aos-offset="1"
+data-aos-delay="5"
+data-aos-duration="1000"
+data-aos-easing="ease-in-out"
+data-aos-mirror="true"
+data-aos-once="false"
+data-aos-anchor-placement="top-center" class="col  d-flex flex-column-reverse   justify-content-end  align-items-center" style="min-height: 80vh;margin-left: auto;margin-right: auto;">
+  <div class=" d-flex flex-column justify-content-start align-items-start divpara">
+    <h1  style="font-size: 35px;line-height:1.4; font-weight:800;font-family: 'Source Sans Pro';">
+      Co-Working Space
+    </h1>
+    <!-- <p style="font-size: 20px ; line-height: 1.4 ; font-family: 'Source Sans Pro';  color:#5d5f64; text-align: justify;" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip. ex ea commodo consequat.Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> -->
+
+    <p style="font-size: 20px;line-height:1.4;font-family: 'Source Sans Pro'; color:#5d5f64; text-align: justify;" class="para">
+      Nemo enim ipsam voluptatem quia voluntur magni dolores eos qui ratione voluptatem sequi nesciunt.Nam<span class="badge readmore" data-id="1"  data-toggle="modal" data-target="#exampleModal3" style="background-color:#ffa737;cursor:pointer;">READ MORE</span>
+    </p>
+    <div class="col-12 mt-3 d-flex" style="font-size:1.2rem;">
+      <div data-number="14" data-value="Co-Working Space" class="button text-white py-1 px-3 d-flex justify-content-center  pop align-items-center" style="background-color: #ffa737;border-radius: 50px;">CONTACT US
+      </div>
+    </div>
+  </div>
+  <div class="col-12 position-relative text-center h-50">
+          <img src="images/investor.jpeg" style="width:100%;height:100%;
+            object-fit:scale-down;" alt="">
+  </div>
+</div>

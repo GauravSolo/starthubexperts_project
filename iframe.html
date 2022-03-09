@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>BotUI - Hello World</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="./botui/build/botui.min.css" />
+    <link rel="stylesheet" href="./botui/build/botui-theme-default.css" />
+  </head>
+  <body>
+
+
+    <div id="my-botui-app" id="hello-world">
+      <bot-ui></bot-ui>
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/vue/latest/vue.min.js"></script>
+    <script src="./botui/build/botui.js"></script>
+
+
+
+    <script type="text/javascript">
+
+        var botui = new BotUI('my-botui-app');
+
+         botui.message.bot({
+                  content: 'Hi there! 👋',
+                  loading: true,
+                  delay: 3000,
+              }).then(function () {
+                scrollfun();
+                  return botui.message.bot({
+                      loading: true,
+                      delay: 1500,
+                      content: "I'm ChatBot",
+                  });
+              }).then(function () {
+                scrollfun();
+                  return botui.message.bot({
+                      loading: true,
+                      delay: 1500,
+                      content: "So i wanted to show something.",
+                  });
+              }).then(function () {
+                scrollfun();
+                  return botui.message.bot({
+                      loading: true,
+                      delay: 1500,
+                      content: "[BotUI](http://docs.botui.org/)",
+                  });
+              }).then(function () {
+                scrollfun();
+                  return botui.message.bot({
+                      loading: true,
+                      delay: 1500,
+                      content: "Pretty cool",
+                  });
+              }).then(function () {
+                return botui.action.button({
+                      delay: 1500,
+                      loading: true,
+                      addMessage: true,
+                      action: [{
+                          text: 'Yes!',
+                          value: 'yes'
+                      }, {
+                          text: 'No.',
+                          value: 'no'
+                      }]
+                  })
+              }).then(function (res) {
+                if (res.value == 'yes') {
+                  scrollfun();
+                  return botui.message.bot({
+                              loading: true,
+                              delay: 1500,
+                              content: "I quite agree!",
+                          });
+                } else {
+                  scrollfun();
+                  return botui.message.bot({
+                              loading: true,
+                              delay: 1500,
+                              content: "Okay, I'm sorry ...",
+                          });
+                }
+              }).then(function () {
+                scrollfun();
+                return botui.message.bot({
+                              loading: true,
+                              delay: 1500,
+                              content: "Bye, I need to go know.",
+                          });
+              })
+
+function scrollfun(){
+    var elem = document.querySelector('.botui-container');
+    elem.scrollTop = elem.scrollHeight;
+}   
+  </script>
+  </body>
+</html>

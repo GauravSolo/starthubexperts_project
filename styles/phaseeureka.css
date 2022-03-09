@@ -1,0 +1,13 @@
+.front{
+    
+    background-image: url('../images2/background.png');
+    height: 80vh;
+    width: 100%;
+    background-size:  contain;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    z-index: -999;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
